@@ -1,0 +1,32 @@
+.tbut {
+    height: 85px;
+    width: 120px
+}
+
+input.tbut {
+    color: rgb(230, 216, 216);
+    font-variant: unset;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+
+   text-shadow: 200px  ;
+   
+    background-color: rgb(59, 61, 60)
+}
+
+
+.ttex {
+    width: 450px;
+    height: 40px;
+    background-color: rgb(217, 219, 218);
+    border-color: antiquewhite
+}
+.titcal{color: rgb(53, 54, 54);
+font-family: 'Courier New', Courier, monospace;
+background-color: silver}
+
+.stdiv{width: 500px; height: 500px; background-color: rgb(185, 184, 183);
+}
+.Degrade {
+    background-image:linear-gradient(white, black);
+    }
